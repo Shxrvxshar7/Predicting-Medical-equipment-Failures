@@ -3,7 +3,7 @@
 
 Ensuring the safety and reliability of medical devices is critical for patient care.  
 This project uses **machine learning** to predict the risk of device failure based on recall notices, device logs, and historical data.  
-It provides a **risk score** along with a simple **UI interface** for easy usage by healthcare professionals.
+It provides a **risk score** along with a simple **UI interface** for easy usage manufacturers to plan interventions, generate reports for Medical Device Regulatory Authorities like FDA/CDSCO
 It helps to create a FDA regulatory compliance report.
 
 ---
