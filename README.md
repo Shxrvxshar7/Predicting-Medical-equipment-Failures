@@ -7,7 +7,11 @@ It provides a **risk score** along with a simple **UI interface** for easy usage
 It helps to create a FDA regulatory compliance report.
 
 ---
+📊 Dataset Information
 
+For this project, we utilized the Faulty Medical Devices - Global Dataset, which contains detailed information on device-related failures and recalls worldwide. To better understand the dataset and its context, we also referred to the[ICIJ Medical Devices Database](https://medicaldevices.icij.org/p/about) 
+. This resource provides insights into device safety issues, reported failures, and regulatory actions, helping us validate and enhance our understanding of the data used in our analysis.
+---
 ## 🚀 Features
 - Data preprocessing and feature engineering for device attributes  
 - Risk scoring for each device based on severity & likelihood of failure  
