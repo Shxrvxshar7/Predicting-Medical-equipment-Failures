@@ -11,7 +11,7 @@ It helps to create a FDA regulatory compliance report.
 ## 🚀 Features
 - Data preprocessing and feature engineering for device attributes  
 - Risk scoring for each device based on severity & likelihood of failure  
-- Machine learning models (Logistic Regression, XGBoost, etc.)  
+- Machine learning models (Logistic Regression, XGBoost, Random Forest,etc.)  
 - Model validation and performance analysis (precision, recall, F1-score)  
 - Interactive UI / Dashboard to input device details and get predictions 
 
